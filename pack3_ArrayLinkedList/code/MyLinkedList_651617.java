@@ -19,7 +19,7 @@ public class MyLinkedList_651617 {
         p.next = head;
         head = p;
     }
-
+ 
     public void insert(int d) {
         Node q = new Node(d);
 
